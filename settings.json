@@ -20,7 +20,7 @@
     "editor.formatOnPaste": true,
     "duplicate.keepOriginalExtension": false,
     "php-cs-fixer.executablePath": "C:\\Program Files\\PHP\\bin\\php-cs-fixer.phar",
-    "php-cs-fixer.executablePathWindows": "C:\\Program Files\\PHP\\bin\\php-cs-fixer.phar", //eg: php-cs-fixer.bat
+    "php-cs-fixer.executablePathWindows": "C:\\Program Files\\PHP\\bin\\php-cs-fixer.phar",
     "php-cs-fixer.onsave": true,
     "php-cs-fixer.config": ".php_cs",
 	"php-cs-fixer.rules": "",
